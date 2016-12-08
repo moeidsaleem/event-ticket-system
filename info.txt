@@ -16,3 +16,22 @@
 #my workflow 
 --path setup.
 -- created server.
+-- Script added.
+-- libraries injected.
+-- firebase ready
+
+
+
+-- first submit array 
+-- change state /view
+-- Show ticket.
+
+
+
+------
+push the array into firebaseArray. 
+
+if submmission
+  save data in array.
+   array index track == $scope.myData.$add(name);
+   
