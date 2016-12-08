@@ -10,3 +10,9 @@
 --Admin
 ---Fetch data from firebase
 --- CRUD data.
+
+
+
+#my workflow 
+--path setup.
+-- created server.
